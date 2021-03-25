@@ -1,0 +1,5 @@
+commontests\TestGetTarif.class
+commontests\TestConnection.class
+commontests\CommonTests.class
+commontests\ficheFamille.class
+commontests\TarifAdmissionTest.class
